@@ -9,4 +9,4 @@ Credit: Global Map of Swaziland (C) ISCGM/Surveyor General's Department
 
 Contact: Surveyor General's Department, Swaziland.
 
-E-mail: ![email](https://www.iscgm.org/gmd/images/email/swaziland.png)
+E-mail: ![email](email.png)
